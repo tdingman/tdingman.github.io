@@ -7,6 +7,29 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
-		<div id="hello">Hello Whirled</div>
+		<div id="container">
+				<div class="motto" id="existence">EXISTENCE</div>
+				<div class="motto" id="precedes">PRECEDES</div>
+				<div class="motto" id="essence">ESSENCE</div>
+				
+				<ul class="links">
+					<li><a href="http://entercastle.com">Castle</a></li>
+					<li><a href="http://rebirthrealty.com">Rebirth Realty</a></li>
+					<li><a href="http://ventureforamerica.org">Venture For America</a></li>
+					<li><a href="http://facebook.com/tim.dingman.11">Facebook</a></li>
+					<li><a href="http://twitter.com/TimDingmanLive">Twitter</a></li>
+					<li><a href="http://linkedin.com/in/timdingman">LinkedIn</a></li>
+					<li id="email"><a href="mailto:me@timdingman.com">Email</a></li>
+				</ul>
+		</div>
+		
+		
+		<script src="js/fittext.js"></script>
+		<script>
+			var mottos = document.getElementsByClassName("motto");
+			for (var i=0; i<mottos.length; i++) {
+				window.fitText(mottos[i], 0.51);
+			}
+		</script>
 	</body>
 </html>

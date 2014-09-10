@@ -1,8 +1,77 @@
 html {
 	font-family: Helvetica, Arial, sans-serif;
-	}
+}
 
-#hello {
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+#container {
+	text-align: center;
+	font-weight: bold;
+	margin-left: -.5em;
+}
+
+.motto{
+	line-height: 0.75em;
+}
+
+.links {
+	list-style: none;
+	padding: 0;
+}
+
+.links li {
+	width: 33%;
+	float: left;
+	margin-bottom: 0.3em;
+}
+
+#email {
 	width: 100%;
-	background: yellow;
+	margin-left: -.19em;
+}
+
+#existence {
+	letter-spacing: -.09em;
+}
+
+#precedes {
+	letter-spacing: -.079em;
+	padding-left: .005em;
+}
+
+#essence {
+	letter-spacing: .029em;
+	padding-left: 0.114em;
+}
+
+
+@media (min-width: 900px) {
+	#container {
+		width: 900px;
+		margin: 0 auto;
 	}
+}
+
+@media (max-width: 500px) {
+	.links li {
+		width: 50%;
+	}
+	
+	#email {
+		margin-left: 0;
+	}
+}
+
+@media (max-width: 350px) {
+	.links li {
+		width: 100%;
+		font-size: 0.9em;
+	}
+	
+	#email {
+		margin-left: 0;
+	}
+}
