@@ -2,6 +2,10 @@ html {
 	font-family: Helvetica, Arial, sans-serif;
 }
 
+body {
+	margin: 1em 0 0 0;
+}
+
 a {
 	text-decoration: none;
 	color: darkgrey;
@@ -12,7 +16,7 @@ a {
 #container {
 	text-align: center;
 	font-weight: bold;
-	margin-left: -.5em;
+	margin-left: -.7em;
 }
 
 .motto{
