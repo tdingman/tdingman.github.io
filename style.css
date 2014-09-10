@@ -1,3 +1,8 @@
 html {
-	font-family: Helvetica, Arial, sans-serif
+	font-family: Helvetica, Arial, sans-serif;
+	}
+
+#hello {
+	width: 100%;
+	background: yellow;
 	}
