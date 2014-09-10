@@ -51,7 +51,8 @@ a {
 
 #essence {
 	letter-spacing: .029em;
-	padding-left: 0.114em;
+	padding-left: .114em;
+	margin-bottom: .2em;
 }
 
 
