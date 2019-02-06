@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>{{ page.title }}</title>
+      <link rel="stylesheet" type="text/css" href="/main.css">
+    </head>
+    <body>
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="https://docs.google.com/document/d/1haL5NChvQQJOdn1UMEnLcRRGtrmW38DdElT2xvU6zt8/edit?usp=sharing">Resume</a></li>
+        </ul>
+      </nav>
+      <div class="container">
+      
+      {{ content }}
+      
+      </div><!-- /.container -->
+    </body>
+  </html>
