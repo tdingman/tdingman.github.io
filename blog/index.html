@@ -3,7 +3,7 @@ layout: default
 title: Missives to the Ether
 ---
 	<h1>{{ page.title }}</h1>
-	<div class = "posts list-group">
+	<div class = "posts list-group list-group-flush">
 		{% for post in site.posts %}
 			<a class="list-group-item list-group-item-action" href="{{ post.url }}" title="{{ post.title }}">
 				<div class="d-flex w-100 justify-content-between">
