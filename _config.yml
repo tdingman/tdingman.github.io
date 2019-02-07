@@ -1,2 +1,3 @@
 name: Tim Dingman
 markdown: kramdown
+permalink: /:title
