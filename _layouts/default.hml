@@ -5,11 +5,9 @@
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     </head>
     <body>
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="https://docs.google.com/document/d/1haL5NChvQQJOdn1UMEnLcRRGtrmW38DdElT2xvU6zt8/edit?usp=sharing">Resume</a></li>
-        </ul>
+      <nav class="nav">
+        <a class="nav-link" href="/">Me</a>
+        <a class="nav-link" href="https://docs.google.com/document/d/1haL5NChvQQJOdn1UMEnLcRRGtrmW38DdElT2xvU6zt8/edit?usp=sharing">CV</a>
       </nav>
       <div class="container">
       
