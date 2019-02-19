@@ -1,45 +1,8 @@
 ---
 layout: post
 title: "Roche: From Nil to MVP"
-date: 2019-02-06
+date: 2019-02-19
 ---
-
-Explain game + place in Brown ultimate community
-
-Explain self-PM
-
-Steps: user research, MVP, PVD, user stories, point, sprint
-  Much messier than that
-
-Learn Django
-
-Lessons about user research:
-	let them talk/don't summarize
-	go off script, it's not a survey
-	look for feelings
-
-Lessons from user research:
-	Mundane vs daring roches
-	Goldilocks zone for good roches
-	Odds
-	Peer pressure
-	Producing something from nothing
-	Warm fuzzies from memories of great roches
-
-Would have pivoted to Odds for a real product
-
-Link to PVD: https://docs.google.com/document/d/1KCPcIaPg9cG9SYVcfsVISdsw6-eUMbDgvX_tfMiRnqg/edit?usp=sharing
-
-MVP board
-
-A last-minute bug!
-
-Should have done TDD
-
-Close with hopes for emotional attachment
-
-===
-
 Ultimate frisbee was a big part of my experience at Brown. It gave me a cultural home on campus, a welcome counterbalance to the stress of engineering coursework, and a network of friends I maintain to this day.
 
 One essential piece of culture in the Brown Ultimate community is roching. For the uninitiated, roching combines rocks-paper-scissors with dares. (The name "roche" is short for [roshambo, an alternate name for rocks-paper-scissors](http://mentalfloss.com/article/80201/why-do-people-call-rock-paper-scissors-roshambo).) Here's how a roche typically works:
@@ -93,3 +56,55 @@ I took a crack at a MVP using Airtable, but quickly ran into features I absolute
 Looking back, I could have done the whole thing in Google Sheets, which is easy to extend with Google App Script, but part of my goal was to learn some Django and PM myself like I would an engineer. If I were PMing for real, I would have given Google Sheets + Google App Script a serious go.
 
 ## PVD
+
+A product vision document answers three questions about the product:
+
+1. What is it?
+2. Why are we doing it?
+3. What does success look like?
+
+A good PVD allows someone with little or no context to understand a problem and the proposed solution from 10,000 feet in the space of a page or two. In a real company, I would have circulated the PVD and asked for input from other stakeholders, but there's not much of that in a team of one!
+
+After so much research and iterating, the What and the Why are usually easy to answer, although often need paring down to their essentials. However, the success criteria can still be difficult. I have a lot of experience setting OKRs, which are similar, but I still struggled with the success metrics. Check out the full PVD [here](https://docs.google.com/document/d/1KCPcIaPg9cG9SYVcfsVISdsw6-eUMbDgvX_tfMiRnqg/edit?usp=sharing).
+
+## Intermission: Learning Django
+
+Normally in the product development process, we'd move on to writing user stories and speccing them for development.
+
+However, since I was the only engineer on the project, I had to first learn how to build a web app at all before I could move on to building the web app I wanted.
+
+I was familiar with Node + Angular from Castle, but I always liked Python better than JavaScript, so I settled on Django as my framework. I went through the official [Django tutorial](https://www.djangoproject.com/start/) and the [Mozilla Developer Network tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django), taking notes as I came across functionality I knew I would need for my MVP. I threw in a tiny bit of Bootstrap for my frontend as well.
+
+## Infrastructure and User Stories
+
+Once I knew what I wanted to build, I started a [GitHub repo](https://github.com/tdingman/roche) and filed [issues](https://github.com/tdingman/roche/projects/2) for all the infrastructure it would require to be minimally functional ([example](https://github.com/tdingman/roche/issues/5)). For the other features I wanted, I filed issues as user stories.
+
+For the uninitiated, user stories are feature ideas written in the following form:
+
+> As a [type of user], I want [feature] so that I can [goal]
+
+I have a soft spot in my heart for user stories from my days at Castle. I admire how such a simple trick of phraseology can clarify thinking, screen ideas, and communicate clearly what the story writer was thinking. Before we implemented user stories, people would submit ideas for features that weren't fleshed out or didn't have a clear purpose. After we implemented user stories, the reasons we should implement features became apparent at a glance.
+
+Once you have a user story, you assign it a point value that represents the amount of work the user story will take to complete. Each "step" the user story takes to implement is one point. You're not writing code at this stage, but you're close - it's almost like pseudocode in some cases. A well-pointed user story makes coding a breeze; you've done all the thinking up front, so you don't get hung up halfway through writing a tricky method.
+
+I deviated from best practice here by not writing all my infrastrucutre issues as user stories. However, I did point all of the issues, which helped me estimate the amount of work and forced me to confront further edge cases I had not caught in my initial design or in my third-party MVP.
+
+## Coding
+Having spent the better part of a month on research and prep, I finally started coding. I set up a two-week sprint with all the pointed issues, assigned myself to the issues, and got to work.
+
+Much to my delight, Django and all my preparation made most of the coding a breeze. The tutorials had prepared me well, and I had most of a web app running in only a few days. (Keep in mind I was working normal hours at my day job.)
+
+About three quarters of the way through my user story points, though, I ran into further complexities I hadn't accounted for. Instead of switching from coding back to pointing, though, I hacked my way through, writing and deleting various versions of solutions in about equal measure. After muddling my way through to the finish line, two notions struck me:
+
+1. This is why so many software projects blow their deadlines
+1. I should have used TDD (test-driven development)
+
+## QA
+When I read about TDD in the Django tutorial, I thought it was good best practice but not necessary for a team of one. After all, I should be able to keep the whole codebase in my head; why spend all that time writing out tests?
+
+Turns out, I couldn't keep the whole codebase in my head. I realized after only a little bit of testing that I had [forgotten to implement half of a core feature](https://github.com/tdingman/roche/issues/18)! The app allowed the creator of a roche to specify a number of wins/losses to complete the roche, but all my logic assumed that number was always one.
+
+I patched the bug, ruminated on my shortcomings, then put a fork in it - the MVP was done.
+
+## What's Next
+Now that the MVP exists and has no known bugs, it's time to recruit beta testers. You'll be able to read all about it in my next post. Until then, happy roching!
