@@ -3,6 +3,10 @@ layout: post
 title: "Roche: From Nil to MVP"
 date: 2019-02-19
 ---
+An exercise in autodidacticism and self-PM'ing
+
+<!--more-->
+
 Ultimate frisbee was a big part of my experience at Brown. It gave me a cultural home on campus, a welcome counterbalance to the stress of engineering coursework, and a network of friends I maintain to this day.
 
 One essential piece of culture in the Brown Ultimate community is roching. For the uninitiated, roching combines rocks-paper-scissors with dares. (The name "roche" is short for [roshambo, an alternate name for rocks-paper-scissors](http://mentalfloss.com/article/80201/why-do-people-call-rock-paper-scissors-roshambo).) Here's how a roche typically works:

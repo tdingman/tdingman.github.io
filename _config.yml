@@ -1,3 +1,4 @@
 name: Tim Dingman
 markdown: kramdown
 permalink: /:title
+excerpt_separator: <!--more-->
