@@ -19,7 +19,11 @@ a {
 	margin-left: -.7em;
 }
 
-.motto{
+.post {
+  max-width: 960px;
+}
+
+.motto {
 	line-height: 0.75em;
 }
 

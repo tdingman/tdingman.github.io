@@ -20,9 +20,9 @@ Unfortunately, publishers have a nasty habit of tweeting the same story multiple
 
 Now, I'm sure Twitter would respond by directing me to the algorithmic timeline. They've been pushing it a lot recently, going so far as to make it the default view in their app. (I'm sure they're taking a page from Instagram's book here.) I turned it off immediately; I don't trust the algorithm, and a non-chronological timeline only makes life harder for a completionist like me. How would I know where I last left off?
 
-The Economist has a neat solution here: follow normal publisher best practice and tweet a story multiple times with @TheEconomist, but offer users like me a different account to follow - @TheEconomistOnce - that only tweets stories once.
+The Economist has a neat solution here: follow normal publisher best practice and tweet a story multiple times with @TheEconomist, but offer users like me a different account to follow - @EconomistOnce - that only tweets stories once.
 
-I remember how elated I was to see a publisher meeting my needs as a completionist. Since then, I have waited for other publishers to follow suit, but none have. Why should they? @TheEconomistOnce is a courtesy to readers like me that provides no benefit to The Economist; completionists are going to read the story whether they see the tweet once or a hundred times.
+I remember how elated I was to see a publisher meeting my needs as a completionist. Since then, I have waited for other publishers to follow suit, but none have. Why should they? @EconomistOnce is a courtesy to readers like me that provides no benefit to The Economist; completionists are going to read the story whether they see the tweet once or a hundred times.
 
 However, Twitter itself has an opportunity here to better serve some of its biggest users, possibly while increasing revenue at the same time.
 
