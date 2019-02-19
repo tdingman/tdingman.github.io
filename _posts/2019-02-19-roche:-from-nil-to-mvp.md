@@ -2,7 +2,6 @@
 layout: post
 title: "Roche: From Nil to MVP"
 date: 2019-02-19
-excerpt_separator: <!--more-->
 ---
 An exercise in autodidacticism and self-PM'ing
 
