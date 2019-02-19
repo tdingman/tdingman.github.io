@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product Teardown: Twitter"
+title: "Serving the Twitter Completionist"
 date: 2019-02-19
 ---
 
