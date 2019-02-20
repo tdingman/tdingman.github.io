@@ -20,6 +20,11 @@ One essential piece of culture in the Brown Ultimate community is roching. For t
 People familiar with [Odds](https://what-are-the-odds.info) will recognize some similarities.
 
 Roching is a mainstay of nearly every gathering of Brown Ultimate players, and anyone who has played at least one seasons can conjure up memories of favorite roches. In my research, I talked to alumni who graduated up to fifteen years ago, and all of them regaled me with at least one such tale. More about that in a minute.
+<figure class="figure">
+  <blockquote class="twitter-tweet text-center" data-lang="en"><p lang="en" dir="ltr">Roche crab walk <a href="https://t.co/zWZM72p9Do">pic.twitter.com/zWZM72p9Do</a></p>&mdash; Senior Week 2011 (@ultimateseniors) <a href="https://twitter.com/ultimateseniors/status/736990491800129537?ref_src=twsrc%5Etfw">May 29, 2016</a></blockquote>
+  <figcaption class="figure-caption">The author losing a crabwalk race as a result of a roche</figcaption>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</figure>
 
 After I graduated in 2012, there was a lot less roching in my life. Sure, my friends from Brown Ultimate would roche with me at our various reunions over the years, but it wasn't part of my life like it once was. Turns out, it's hard to roche long-distance. As with relationships though, I think technology can help close the gap.
 
@@ -111,4 +116,4 @@ Turns out, I couldn't keep the whole codebase in my head. I realized after only 
 I patched the bug, ruminated on my shortcomings, then put a fork in it - the MVP was done.
 
 ## What's Next
-Now that the MVP exists and has no known bugs, it's time to recruit beta testers. You'll be able to read all about it in my next post. Until then, happy roching!
+Now that the MVP exists and has no known bugs, it's time to recruit beta testers. You'll be able to read all about it (and get a link to the beta-tested version) in my next post. Until then, happy roching!
