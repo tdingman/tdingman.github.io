@@ -20,7 +20,7 @@ One essential piece of culture in the Brown Ultimate community is roching. For t
 People familiar with [Odds](https://what-are-the-odds.info) will recognize some similarities.
 
 Roching is a mainstay of nearly every gathering of Brown Ultimate players, and anyone who has played at least one seasons can conjure up memories of favorite roches. In my research, I talked to alumni who graduated up to fifteen years ago, and all of them regaled me with at least one such tale. More about that in a minute.
-<figure class="figure">
+<figure class="text-center">
   <blockquote class="twitter-tweet text-center" data-lang="en"><p lang="en" dir="ltr">Roche crab walk <a href="https://t.co/zWZM72p9Do">pic.twitter.com/zWZM72p9Do</a></p>&mdash; Senior Week 2011 (@ultimateseniors) <a href="https://twitter.com/ultimateseniors/status/736990491800129537?ref_src=twsrc%5Etfw">May 29, 2016</a></blockquote>
   <figcaption class="figure-caption">The author losing a crabwalk race as a result of a roche</figcaption>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

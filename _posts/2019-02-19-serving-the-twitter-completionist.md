@@ -16,7 +16,7 @@ Because the people I follow tweet infrequently, I am a Twitter completionist - I
 
 "Completionist" is an established user persona in gaming. Have you ever played a video game that shows the percent of achievements unlocked and wondered who in their right mind would waste all that time getting to 100%? Completionists, that's who.
 
-<figure class="figure">
+<figure class="text-center">
   <img src="/img/completionist.jpg" class="figure-img img-fluid rounded text-center" alt="@JKCompletesIt on Twitter">
   <figcaption class="figure-caption">There's even <a href="https://twitter.com/JKCompletesIt">someone on Twitter calling himself The Completionist</a></figcaption>
 </figure>
@@ -27,8 +27,8 @@ Now, I'm sure Twitter would respond by directing me to the algorithmic timeline.
 
 The Economist has a neat solution here: follow normal publisher best practice and tweet a story multiple times with @TheEconomist, but offer users like me a different account to follow - @EconomistOnce - that only tweets stories once.
 
-<figure class="figure">
-  <img src="/img/economistonce.png" class="figure-img img-fluid rounded text-center" alt="@EconomistOnce on Twitter">
+<figure class="text-center">
+  <img src="/img/economistonce.png" class="figure-img img-fluid rounded text-center" style="max-width: 480px;" alt="@EconomistOnce on Twitter">
   <figcaption class="figure-caption"><a href="https://twitter.com/EconomistOnce">Sweet, sweet relief</a></figcaption>
 </figure>
 
