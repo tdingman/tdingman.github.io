@@ -64,7 +64,7 @@ Just like that, we've more than doubled the amount of ads completionists will se
 
 If I were a PM at Twitter, here is how I would validate my hypothesis and implement the feature:
 
-1. Verify the existence of the completionist user persona via surveys and interviews
+1. Verify the existence of the completionist user persona via surveys, interviews, and data
 1. Verify the pain of duplicate content, also via surveys and interviews
 1. Model out numbers (as I did above) showing the current state of affairs for completionists vs what things would be like with the deduped timeline
 1. Use the model to estimate the business impact, probably some increase in ad revenue
