@@ -62,6 +62,8 @@ I'm a big believer in buying before building. Back in my [Castle](https://techcr
 
 I took a crack at a MVP using Airtable, but quickly ran into features I absolutely needed that Airtable wouldn't support. The hardest part would have been the logic of the game - taking all the players' throws and deciding who was the winner/loser. However, the exercise of attempting the MVP with Airtable was still valuable; it uncovered edge cases I may not have considered until I was knee-deep in code, well beyond the design stage where it's easy to make revisions.
 
+The biggest way my spreadsheet MVP saved me time was in database design. The first time I created tables to reflect my data model, I immediately uncovered several holes in my design. Once I actually started coding later on, I repeatedly recognized places where I would have wasted hours had I not tested my schema in spreadsheets.
+
 Looking back, I could have done the whole thing in Google Sheets, which is easy to extend with Google App Script, but part of my goal was to learn some Django and PM myself like I would an engineer. If I were PMing for real, I would have given Google Sheets + Google App Script a serious go.
 
 ## PVD
