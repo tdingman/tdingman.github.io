@@ -26,6 +26,11 @@ After playing a few games to completion - each several hours - I started to see 
 
 Before the game starts, you pick three colonists to start your colony. Every colonist has their (randomly generated) strengths and weaknesses in various skills. The skills of the colonists you select must be both complementary and sufficient. In other words, your colonists need to split up work effectively and cover the bare minimum of skills to survive.
 
+<figure class="text-center">
+  <img src="/img/rimworldcharacters.png" class="figure-img img-fluid rounded text-center" alt="RimWorld character selection">
+  <figcaption class="figure-caption">Colonist with a compelling backstory</figcaption>
+</figure>
+
 If the parallel stopped here, it would still be worth mentioning. Selecting a founding team well is absolutely critical. If you do it wrong, you're probably dead, and the only real way to get a new founding team is to start the game/company over.
 
 As it turns out, the parallel runs much deeper; the skills that your founding colonists need line up eerily well with the skills founders need. Specifically:
@@ -50,13 +55,13 @@ One anti-parallel here is proximity to competitors. The game will warn you if yo
 
 Now that you have your crew and your landing site, you're ready to start the actual gameplay - building your colony.
 
-Laying out the initial foundations of your colony correctly is crucial. While your colonists crash-land with some food to start, they will quickly starve if your colony can't produce plants to cook into meals, so clearing soil and planting crops is top priority. They will become mutenously unhappy without shelter, so building a house with heat and beds (and a stove for cooking!) is next. Once you have the basics working, you can move on to collecting other materials (wood, steel) and researching technologies.
+Laying out the initial foundations of your colony correctly is crucial. While your colonists crash-land with some food to start, they will quickly starve if your colony can't produce plants to cook into meals, so clearing soil and planting crops is top priority. They will become mutinously unhappy without shelter, so building a house with heat and beds (and a stove for cooking!) is next. Once you have the basics working, you can move on to collecting other materials (wood, steel) and researching technologies.
 
 The biggest danger here is trying to do too many things at once. If you set tasks for growing, building, collecting, and researching all at the beginning of the game, you probably won't finish any of them by the time your initial food runs out. Even though you have to collect other resources and research technologies to win the game, you need to wait patiently until you have the basics nailed.
 
 Extending the parallel of food as revenue, the same logic applies with startups. [As Paul Graham notes](http://paulgraham.com/aord.html), you should become default alive basically as soon as possible. Your seed capital (the food you crash-landed with) allows you to become default alive if you focus well.
 
-I find myself particularly susceptible to over-ambition when building a colony. I have lost several games because I planned too far ahead, building a massive house to store my future legions of colonists or mining precious metals in order to build fancy tech. I am determined to remember the lesson of focus from RimWorld when founding my next company.
+I find myself particularly susceptible to excess ambition when building a colony. I have lost several games because I planned too far ahead, building a massive house to store my future legions of colonists or mining precious metals in order to build fancy tech. I am determined to remember the lesson of focus from RimWorld when founding my next company.
 
 ## Parallel Four: Strategy
 
@@ -78,7 +83,12 @@ As a novice player, I rarely took advantage of trading. It took me ages to colle
 
 Over time, I learned the immense value of trade. I learned to focus on one or two goods I could tune my colony to produce en masse, then sell them and buy anything else I might need with the proceeds.
 
-My lesson wasn't in the value of trade per se - I had traded a bit even in my first game. No, the concept I learned to love is [comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage). In short, comparative advantage says you should produce only the thing you are best at producing and trade for the rest, even if you are better than your trading partners at producing the things you're receiving from them.
+My lesson wasn't in the value of trade per se - I had traded a bit even in my first game. No, the concept I learned to love is [comparative advantage](https://en.wikipedia.org/wiki/Comparative_advantage). In short, comparative advantage says you should produce only the thing you are best at producing and trade for the rest, even if you are better than your trading partners at producing the things you're receiving from them. David Ricardo, the economist who first conceptualized the theory, used the example of Portugal and England producing or trading cloth and wine:
+
+<figure class="text-center">
+  <img src="/img/comparativeadvantage.png" class="figure-img img-fluid rounded text-center" alt="Chart showing an example of comparative advantage">
+  <figcaption class="figure-caption">I promise this graph makes sense if you stare at it long enough</figcaption>
+</figure>
 
 Startups encounter the same dynamic in two guises. The first guise is the classic choice between buy and build. For example, if your web app needs a billing feature, do you integrate with an existing billing tool, or do you build the feature yourself? Because startups are scrappy, they err on the side of build. However, comparative advantage says to err on the side of buy - use the time to build more of the thing the company is best at.
 
