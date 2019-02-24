@@ -103,7 +103,7 @@ In much the same fashion, competition is almost never the reason startups die. I
 1. The founders gave up
 1. The company ran out of money
 
-Sure, once a company reaches a certain size, a bigger competitor may take action, but the vast majority of startup never reach that certain size. If competitors are the biggest threat to your existence, you're in a good place.
+Sure, once a company reaches a certain size, a bigger competitor may take action, but the vast majority of startups never reach that certain size. If competitors are the biggest threat to your existence, you're in a good place.
 
 ## Parallel Seven: Victory
 
