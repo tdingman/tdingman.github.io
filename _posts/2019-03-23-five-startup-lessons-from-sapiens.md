@@ -1,8 +1,8 @@
---
+---
 layout: post
 title: "Five Startup Lessons from Sapiens"
 date: 2019-03-23
---
+---
 
 Mining the wisdom of the species
 
@@ -20,9 +20,7 @@ _Sapiens_ shows that culture is not just a good idea for a startup - it is a req
 
 ## 2. Punctuated Equilibrium
 
-Harari divides up human history into several eras, with a revolution marking the boundary between each. The pattern here is punctuated equilibrium - long periods of slow or no change, with short periods of sharp change in between.
-
-***image of punctuated equilibrium***
+Harari divides up human history into several eras, with a revolution marking the boundary between each. The pattern here is [punctuated equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium) - long periods of slow or no change, with short periods of sharp change in between.
 
 Each revolution - the Cognitive Revolution, the Agricultural Revolution, the Industrial Revolution, etc - happens partly or wholly by accident, or perhaps through a small initial change that snowballs quickly. For example, the Agricultural Revolution starts with ancient hunter-gatherers noticing certain natural conditions that increase yields of wild crops. In relatively short order, the hunter-gatherers have become farmers, living lives unrecognizable to the millenia of hunter-gatherer generations before them.
 
@@ -30,15 +28,13 @@ Critically, the Agricultural Revolution brings with it a host of unintended cons
 
 Common business methods like quarterly sales targets or OKRs train startups to think progress is linear and yields predictable results. _Sapiens_ and the history of human progress show otherwise. Linear progress can exist, but it is the exception rather than the rule, and it doesn't yield the radical, unforseeable change startups depend on to innovate.
 
-Entrepreneurs should be familiar with a similar concept from the world of VC. Investors don't expect to earn incrementally more for every investment they make; they expect one massive and unpredictable sucess to compensate for their many small losses. The statistical name for such a pattern is "power law."
-
-***image of power law***
+Entrepreneurs should be familiar with a similar concept from the world of VC. Investors don't expect to earn incrementally more for every investment they make; they expect one massive and unpredictable sucess to compensate for their many small losses. The statistical name for such a pattern is "[power law](https://en.wikipedia.org/wiki/Power_law)."
 
 Startups need to accept the reality of punctuated equilibrium and power laws, not try to tame them with elaborate plans and models. Fail fast, iterate often, and stumble upon the uninteded revolution that will take you into the next era.
 
 ## 3. Admitting Ignorance
 
-One of my biggest historical takeaways from _Sapiens_ is the change in epistemology that occurred in Europe roughly around 1600 with the Scientific Revolution. Up through the Middle Ages, people thought pretty much all of the facts of the world were known, through a combination of ancient sources, tradition, and religion. The only intellectual task for the select few was to learn all the facts and to interpret them in new ways. (The Victorines [https://historyofphilosophy.net/victorines], a medieval philosophical school, actually did attempt to learn literally everything - that's how small people thought the world's body of knowledge was.)
+One of my biggest historical takeaways from _Sapiens_ is the change in epistemology that occurred in Europe roughly around 1600 with the Scientific Revolution. Up through the Middle Ages, people thought pretty much all of the facts of the world were known, through a combination of ancient sources, tradition, and religion. The only intellectual task for the select few was to learn all the facts and to interpret them in new ways. ([The Victorines](https://historyofphilosophy.net/victorines), a medieval philosophical school, actually did attempt to learn literally everything - that's how small people thought the world's body of knowledge was.)
 
 Starting around the time Columbus discovered the New World by accident, European intellectuals embraced epistemic humility. How could an entire continent exist without mention in any map or book? The first step in kickstarting the Scientific Revolution, which lead to the other effects I discuss below, was admitting ignorance.
 
