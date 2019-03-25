@@ -107,8 +107,6 @@ Sure, once a company reaches a certain size, a bigger competitor may take action
 
 ## Parallel Seven: Victory
 
-Takeoff = exit/IPO, but you can grow in perpetuity and be successful without the game considering you a winner
-
 The main way to win in RimWorld is to build the spaceship and take off. The game doesn't exactly tell you that's how you win, but the story makes the most sense if it ends with the crash-landed colonists returning to space. Plus, the tech tree ends with the spaceship technologies, implying there is nothing more important beyond. (There are other, more obscure ways to win, but we won't discuss them here.)
 
 However, you don't lose by simply keeping your colony alive. There is no countdown, your colonists don't complain if you never build the spaceship, and the only way to actually lose is if all your colonists die.
