@@ -8,6 +8,7 @@
     <body>
       <nav class="nav">
         <a class="nav-link" href="/">Me</a>
+        <a class="nav-link" href="/blog">Blog</a>
         <a class="nav-link" href="https://docs.google.com/document/d/1haL5NChvQQJOdn1UMEnLcRRGtrmW38DdElT2xvU6zt8/edit?usp=sharing">CV</a>
       </nav>
       <div class="container">
