@@ -33,6 +33,6 @@ Further down the mathematical education line, I learned about a fancier applicat
   <figcaption class="figure-caption">The mathematical version of the <a href="https://en.wikipedia.org/wiki/Michigan_left">Michigan left</a></figcaption>
 </figure>
 
-In each case, the lesson is the same: the best way to solve a hard problem is to turn it into an easy problem. The trick is studying the problem until you know how to transform it.
+In each case, the lesson is the same: the best way to solve a hard problem is to turn it into an easy problem. The trick is studying the problem until you know how to transform it. In the words of pioneering computer scientist [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay), "Perspective is worth 80 IQ points."
 
 As a result, I spend most of my time on a project or product researching, thinking about, and analyzing the problem. What does it include? What is extraneous? What are the key metrics? What have we tried to solve it before? What have other people tried? What levers can we pull? What is out of our control? Ask yourself enough such questions and eventually you will reconceptualize the problem - you will transform it from a white elephant into a blue elephant, from the time domain into the frequency domain. Once you transform your problem, the solution will become obvious.
