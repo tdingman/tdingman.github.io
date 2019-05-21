@@ -23,7 +23,7 @@ She told us the joke because we were starting a unit on coordinate transformatio
 
 <figure class="text-center">
   <img src="/img/coordinatetransformation.jpg" class="figure-img img-fluid rounded text-center" style="max-width: 480px;" alt="Parabola coordinate transformation">
-  <figcaption class="figure-caption">A parabola's equations goes from hard (in blue) to easy (in red) just by rotatings its coordinates (old coordinates unpictured, new coordinates in black)</figcaption>
+  <figcaption class="figure-caption">A parabola's equation goes from hard (in blue) to easy (in red) just by rotatings its coordinates (old coordinates unpictured, new coordinates in black)</figcaption>
 </figure>
 
 Further down the mathematical education line, I learned about a fancier application of the same idea. A [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) takes an equation in one "domain" and turns it into an equation in another "domain." The most common transformation is between time and frequency. [Here](https://upload.wikimedia.org/wikipedia/commons/5/50/Fourier_transform_time_and_frequency_domains.gif) is an example from the Wikipedia page showing how a square wave in the time domain - a pretty complicated function - breaks down into a few discrete values in the frequency domain. Engineers and physicists use the Fourier transform regularly to understand the individual factors driving complex behavior.
