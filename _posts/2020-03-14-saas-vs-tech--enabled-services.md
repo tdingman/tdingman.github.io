@@ -92,6 +92,8 @@ As the tech-enabled business scales, it also pays penalties of complexity. All t
 
 The best thing a tech-enabled service business can do here is to master the arts of onboarding and change management. Every new team member needs to learn how the company operates, and every existing team member needs to understand changes to how the company operates. The company needs to guarantee everyone is rowing in the same direction.
 
+Founders of tech-enabled service startups should also think carefully about taking significant outside capital. In order for the traditional startup tradeoff of massive upfront investment to unlock zero marginal cost to work, you have to automate away a significant amount of service provider labor. So far, that has proved difficult.
+
 ## Tension: Creative, or Destructive?
 <figure class="text-center">
   <img src="/img/saas-vs-tes-06.png" class="figure-img img-fluid rounded text-center" alt="Emoji of scales">
