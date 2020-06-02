@@ -8,6 +8,7 @@ date: 2019-04-29
 Measure twice, cut once
 
 <!--more-->
+<hr>
 
 I reflect often on a joke my trigonometry teacher told our class back in high school:
 
