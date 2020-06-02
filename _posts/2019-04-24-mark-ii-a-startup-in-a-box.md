@@ -9,6 +9,7 @@ date: 2019-04-23
 Taking the guesswork out of policies and procedures
 
 <!--more-->
+<hr>
 
 I spend a lot of time thinking ([and](http://timdingman.com/seven-startup-lessons-from-rimworld) [writing](http://timdingman.com/five-startup-lessons-from-sapiens)) about what makes a good startup. I use startups as a filter for much of the media I consume.
 
