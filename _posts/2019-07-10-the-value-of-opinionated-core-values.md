@@ -9,6 +9,7 @@ date: 2019-07-10
 If they can't be wrong, they can't be right
 
 <!--more-->
+<hr>
 
 Note: this essay complements the [Core Values policy](https://docs.google.com/document/d/1imgV8sZTZktUleOCmOIxm3ohugBnCw5nzQZV5qXfPpw/edit) in [Mark II](http://timdingman.com/mark-ii-a-startup-in-a-box).
 
