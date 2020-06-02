@@ -7,8 +7,9 @@ date: 2020-03-14
 What changes and what stays the same when human service providers enter the mix
 
 <!--more-->
+<hr>
 
-I have spent the majority of my career in tech-enabled services. After founding [Castle](https://www.crunchbase.com/organization/castle) (tech-enabled property management), I spent time at [Atrium](https://www.crunchbase.com/organization/atrium-lts) (tech-enabled law) and [Great Jones](https://www.crunchbase.com/organization/great-jones#section-overview) (also tech-enabled property management). Now I work at [Reset Button](http://resetbutton.com) (also tech-enabled law).
+I have spent the majority of my career in tech-enabled services. After founding [Castle](https://www.crunchbase.com/organization/castle) (tech-enabled property management), I spent time at [Atrium](https://www.crunchbase.com/organization/atrium-lts) (tech-enabled law) and [Great Jones](https://www.crunchbase.com/organization/great-jones#section-overview) (also tech-enabled property management). As of writing, I work at [Reset Button](http://resetbutton.com) (also tech-enabled law).
 
 Having seen enough different iterations, I know the key differences between SaaS and tech-enabled services. The following essay distills the differences and provides strategies for adapting traditional SaaS wisdom. It is the written version of a presentation I give to all new team members at Reset Button, hence the slides.
 
