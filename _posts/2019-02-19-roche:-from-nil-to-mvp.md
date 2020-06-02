@@ -6,6 +6,7 @@ date: 2019-02-19
 An exercise in autodidacticism and self-PM'ing
 
 <!--more-->
+<hr>
 
 Ultimate frisbee was a big part of my experience at Brown. It gave me a cultural home on campus, a welcome counterbalance to the stress of engineering coursework, and a network of friends I maintain to this day.
 
