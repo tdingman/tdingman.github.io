@@ -9,6 +9,7 @@ date: 2019-07-18
 Capturing the missing middle between facts and goals
 
 <!--more-->
+<hr>
 
 It’s generally easier to say what something isn’t than what something is. The more complicated something is, the more helpful definition by negation becomes.
 
