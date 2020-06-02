@@ -7,6 +7,7 @@ date: 2019-02-19
 Making the Sisyphean more pleasant
 
 <!--more-->
+<hr>
 
 I read Twitter daily. On a fairly busy day, I read once in the morning when I wake up and once at night as I ready myself for bed. On a slow day, I may check my timeline five or ten times.
 
