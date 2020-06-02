@@ -7,6 +7,7 @@ date: 2019-03-24
 Efficientia delenda est
 
 <!--more-->
+<hr>
 
 _The Goal_ is the most enthralling book you'll ever read about the life of a factory manager. It is probably also the only book you'll ever read about the life of a factory manager.
 
