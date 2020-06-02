@@ -7,6 +7,7 @@ date: 2019-03-23
 Mining the wisdom of the species
 
 <!--more-->
+<hr>
 
 I recently read _Sapiens_ by Yuval Noah Harari. The whole time, I couldn't help but see connections to startups. Here's what stuck out to me through my startup lens:
 
