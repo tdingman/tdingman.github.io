@@ -7,6 +7,7 @@ date: 2020-06-01
 Most tech-enabled service startups mistake service-market fit for product-market fit
 
 <!--more-->
+<hr>
 
 The concept of product-market fit is familiar to most founders. It means (enough) people want what you’re making.
 
