@@ -8,6 +8,7 @@ date: 2019-05-27
 Use this one weird trick to manage your team more effectively
 
 <!--more-->
+<hr>
 
 Perhaps the single greatest challenge for managers is maintaining alignment. How do you make sure your team is working on the right things without micromanaging them? How do you even know what they're working on in the first place?
 
